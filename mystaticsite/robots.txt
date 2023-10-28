@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /iamroot/wp-admin/
-Allow: /iamroot/wp-admin/admin-ajax.php
-
-Sitemap: https://yosoyraiz.github.io/iamroot/wp-sitemap.xml
